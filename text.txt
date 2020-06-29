@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 trinh ngoc kinh
 aptech
 123
+=======
+>>>>>>> parent of b6773b6... second
